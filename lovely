@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Documento sin título</title>
+</head>
+
+<body bgcolor="#000000" text="#ECECEC">
+	<h2><center>Te amo</center></h2>
+	<table width="100%" border="0">
+  <tbody>
+    <tr>
+      <td width="25%"><img src="images/three.jpg" width="100%" height="" alt=""/></td>
+      <td rowspan="2">	<h4><center>¿El amor de mi vida ha estado bien?, mi niño bello</center></h4>
+			<h4><center>¿Cómo le va a mi muchacho precioso?</center></h4>
+		  	<h4><center>Mi cielo.. tanto tiempo y nunca siento que sea suficiente el sólo decirte unas cuantas cosas..</center></h4>
+	  	<h4><center>¿Sabes algo?, sigues siendo lo más especial en mi vida.</center></h4>
+		  	<h4><center>Lo siento por las veces que te he tratado mal, o te he hecho mal.</center>
+		    	<h4><center>Te amo, ¿Puedes creerme cuando te lo digo?</center></h4>
+					<h4><center>Porque aún si lo digo, no es suficiente.</center></h4>
+					<h4><center>Nunca debería serlo. Mereces más de lo que yo he podido darte, pero me alegra que no lo entiendas.</center></h4>
+			<h4><center>Porque si te dieras cuenta de lo mucho que vales y mereces me habrías dejado atrás hace bastante tiempo...</center></h4>
+				<h4><center>¿Puedes conformarte conmigo? No soy realmente lo mejor, pero lo que tengo para ti es lo único que puedo darte.</center></h4>
+			<h4><center>¿Alguna vez entendiste cuánto te amo?, asumo que no.</center></h4>
+			<h4><center>No lo sabes, pero he sido capaz de mantenerme a flote por ti.</center></h4>
+			<h4><center>No lo sabes, pero eres la única razón por la que puedo seguir..</center></h4>
+			<h4><center>Aún te tengo miedo, ¿sabes?</center></h4>
+		<h4><center>No entiendo cómo me he llegado a hacer tan débil por ti, pero no me quejo.</center></h4>
+		<h4><center>Te amo..</center></h4>
+				<h4><center>Recibe mi pequeño presente, por favor.. y ámame, porque no sabes cuánto necesito tu amor, tu aprobación y tu simple existencia para sentir que soy alguien...</center></h4>
+				<h4><center>Porque sin ti, no tengo nada y no soy nada...</center></h4>
+	      </h4>
+		</td>
+      <td width="25%"><img src="images/two.jpg" width="100%" height="" alt=""/></td>
+    </tr>
+    <tr>
+      <td><img src="images/five.jpg" width="100%" height="" alt=""/></td>
+      <td><h4><center>Una cosita pequeña nada más, <a href="https://youtube.com/playlist?list=PLLISKnBu4W9cWWa-z4Mx61w_kxHFaQI5t&si=Evbvv-rnszQiZfhZ ">aquí...</a></center></h4></td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
